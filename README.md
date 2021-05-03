@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/vladimir-sajdl/Test02/_apis/build/status/vsajdl.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/vladimir-sajdl/Test02/_build/latest?definitionId=2&branchName=master)
+https://dev.azure.com/vladimir-sajdl/Test02/_apis/build/status/vsajdl.pipelines-dotnet-core?branchName=master
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
